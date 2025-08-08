@@ -24,3 +24,5 @@ CSS3
 JavaScript
 
 <a href ="https://aks3591.github.io/My-Portfolio-web/"><b>Explore My Portfolio Website</b> <a/>
+
+<img src = "https://github.com/aks3591/My-Portfolio-web/blob/main/snapshot.png">
